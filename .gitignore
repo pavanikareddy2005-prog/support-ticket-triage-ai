@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+data/_uploaded.csv
+data/tickets_clean.csv
+.DS_Store
+.streamlit/secrets.toml
