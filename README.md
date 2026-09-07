@@ -2,7 +2,6 @@
 
 🔗 **[Try the live app](https://pavanika-ticket-triage.streamlit.app/)** &nbsp;|&nbsp; 📂 [View the code](https://github.com/pavanikareddy2005-prog/support-ticket-triage-ai)
 
-![App Screenshot](screenshot.png)
 
 ## The problem I wanted to solve
 
