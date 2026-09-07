@@ -61,7 +61,3 @@ I used AI (Claude) as a coding partner throughout — to scaffold the initial st
 - Handle tickets in more than one language
 - Automatically route tickets to the right team based on category
 - Trigger this from an actual incoming email instead of a manual CSV upload
-
-## License
-
-MIT — feel free to use or build on this.
